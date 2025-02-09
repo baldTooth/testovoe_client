@@ -1,1 +1,1 @@
-Client for testovoe (randomserver)
+Client for testovoe (randomserver).
